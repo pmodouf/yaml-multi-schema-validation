@@ -3,6 +3,8 @@ car:
   model: "s60"
   year: "2012"
   attributes:
-    -type: "blue"
+    -blue
+    -leather
+    -sunroof
   reg: "abc123"
 
