@@ -3,8 +3,6 @@ car:
   model: "s60"
   year: "2012"
   attributes:
-    color: "blue"
-    engine: "2.0"
-    transmission: "automatic"
+    -type: "blue"
   reg: "abc123"
 
