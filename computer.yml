@@ -1,3 +1,13 @@
 computer:
   cpu:
+    manufacturer: Intel
     cores: 8
+    frequency: 3.4
+  memory:
+    manufacturer: Kingston
+    size: 16
+    type: DDR3
+  disk:
+    manufacturer: Seagate
+    size: 1000
+    type: SATA
