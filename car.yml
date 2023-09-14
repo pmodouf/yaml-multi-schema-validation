@@ -1,6 +1,6 @@
 car:
-  manufacturer: "volvo"
-  model: "s60"
+  manufacturer: volvo
+  model: s60
   year: "2012"
   attributes:
     -blue
