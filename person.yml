@@ -1,3 +1,12 @@
 person:
   name:
     first_name: Stig
+    last_name: Bengtsson
+    age: 42
+    class: Java22
+    start_year: 2022
+    hobbies:
+      - Programming
+      - Music
+      - Golf
+
